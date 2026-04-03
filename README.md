@@ -3,5 +3,5 @@
 / Q Q \
 ```
 Sponsor me via:
-<p><code>BTC : bc1qsal88v7xqwely94zjrtazxul0rkglc5k62vuh5</code></p>
-<p><code>ETH : 0x832e26EAC5eEF554373375889597159C1D8be25e</code></p>
+<p><code>BTC : bc1q6320wmxeg6j2kzv8xyw0nhuy342620ww73nex9</code></p>
+<p><code>ETH : 0xB6c370ada323D6C0D6A989D3383616104cc998a8</code></p>
