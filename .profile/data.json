@@ -1,0 +1,465 @@
+{
+ "key": "7a0515f8",
+ "stars": 5,
+ "contributions": 746,
+ "repos": 28,
+ "followers": 3,
+ "languages": [
+  [
+   "JavaScript",
+   4318855
+  ],
+  [
+   "TypeScript",
+   3215923
+  ],
+  [
+   "HTML",
+   2459618
+  ],
+  [
+   "Svelte",
+   965100
+  ],
+  [
+   "CSS",
+   302557
+  ],
+  [
+   "Rust",
+   128163
+  ],
+  [
+   "Kotlin",
+   27004
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 2,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 9,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 29,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 18,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 8,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 9,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 15,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 4,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 12,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 10,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 23,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 24,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 25,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 26,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 27,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 28,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 29,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 30,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 31,
+    "today": true
+   }
+  ]
+ ],
+ "streak": {
+  "current": 1,
+  "longest": 26
+ },
+ "pins": [
+  {
+   "name": "TheMallyGuy",
+   "url": "https://github.com/TheMallyGuy/TheMallyGuy",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "tauri-docs",
+   "url": "https://github.com/tauri-apps/tauri-docs",
+   "text": "The source for all Tauri project documentation.",
+   "fork": false,
+   "stars": 1147,
+   "language": "MDX",
+   "topics": [
+    "documentation",
+    "tauri"
+   ]
+  },
+  {
+   "name": "rewards-farmer",
+   "url": "https://github.com/User0332/rewards-farmer",
+   "text": "Automation for MS Rewards based on https://youtu.be/4qdPcMNaioA",
+   "fork": false,
+   "stars": 1075,
+   "language": "Python",
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "glimmer",
+   "url": "https://github.com/TheMallyGuy/glimmer",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "remiellestrap",
+   "url": "https://github.com/TheMallyGuy/remiellestrap",
+   "text": "shitpost project dont look",
+   "fork": false,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "Cerium",
+   "url": "https://github.com/TheMallyGuy/Cerium",
+   "text": "level up your experience with the roblox app!",
+   "fork": false,
+   "stars": 1,
+   "language": "Svelte",
+   "topics": [
+    "roblox",
+    "svelte",
+    "tauri"
+   ]
+  },
+  {
+   "name": "RotectorLuaClient",
+   "url": "https://github.com/TheMallyGuy/RotectorLuaClient",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "Luau",
+   "topics": [
+    "lua",
+    "luau",
+    "moderation",
+    "roblox-api",
+    "rotector",
+    "rotector-api"
+   ]
+  },
+  {
+   "name": "molru-extractor",
+   "url": "https://github.com/TheMallyGuy/molru-extractor",
+   "text": "a extractor for .morlru/.bundle",
+   "fork": false,
+   "stars": 1,
+   "language": "Rust",
+   "topics": [
+    "blue-archive",
+    "rust",
+    "svelte",
+    "sveltekit",
+    "tauri"
+   ]
+  },
+  {
+   "name": "voidstrap-mods-library",
+   "url": "https://github.com/TheMallyGuy/voidstrap-mods-library",
+   "text": "Community Voidstrap mods, checked, owner locked and reviewed",
+   "fork": true,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "anisette-v3-server",
+   "url": "https://github.com/TheMallyGuy/anisette-v3-server",
+   "text": "sidestore's anisette-v3 compatible server",
+   "fork": true,
+   "stars": 0,
+   "language": "D",
+   "topics": []
+  },
+  {
+   "name": "tauri-docs",
+   "url": "https://github.com/TheMallyGuy/tauri-docs",
+   "text": "The source for all Tauri project documentation.",
+   "fork": true,
+   "stars": 0,
+   "language": "MDX",
+   "topics": []
+  },
+  {
+   "name": "Equicord",
+   "url": "https://github.com/TheMallyGuy/Equicord",
+   "text": "The other cutest Discord client mod",
+   "fork": true,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "something-repo",
+   "url": "https://github.com/TheMallyGuy/something-repo",
+   "text": "mirrors",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "tauri-scratch-ext",
+   "url": "https://github.com/TheMallyGuy/tauri-scratch-ext",
+   "text": "bring your lifeless scratch game into a breaking scratch game or something",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "pm-packager",
+   "url": "https://github.com/TheMallyGuy/pm-packager",
+   "text": "pm packager but bundled using rolldownjs",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "penguinsomethingmod",
+   "url": "https://github.com/TheMallyGuy/penguinsomethingmod",
+   "text": "pm mod gui but build via bunjs",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "penguin-desktop",
+   "url": "https://github.com/TheMallyGuy/penguin-desktop",
+   "text": "powered by penguins",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "rewards-farmer",
+   "url": "https://github.com/TheMallyGuy/rewards-farmer",
+   "text": "Automation for MS Rewards based on https://youtu.be/4qdPcMNaioA",
+   "fork": true,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "shrimp-detector",
+   "url": "https://github.com/TheMallyGuy/shrimp-detector",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "Swifttunnel-sdk",
+   "url": "https://github.com/TheMallyGuy/Swifttunnel-sdk",
+   "text": "SwiftTunnel VPN SDK - V3 relay with split tunneling, built-in auth, and C/C#/Python bindings",
+   "fork": true,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "umbrel",
+   "url": "https://github.com/TheMallyGuy/umbrel",
+   "text": "An elegant home server OS. Run OpenClaw, store your files and photos, run a Bitcoin node, and do more with over 300 apps in the Umbrel App Store.",
+   "fork": true,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "blossom",
+   "url": "https://github.com/TheMallyGuy/blossom",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "tauri-android-utils-api",
+   "url": "https://github.com/TheMallyGuy/tauri-android-utils-api",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "sb3-tauri",
+   "url": "https://github.com/TheMallyGuy/sb3-tauri",
+   "text": "turn any scratch (the programming language) into a tiny app",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "blue-springs-in-kangaroo",
+   "url": "https://github.com/TheMallyGuy/blue-springs-in-kangaroo",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "Sink",
+   "url": "https://github.com/TheMallyGuy/Sink",
+   "text": "⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.",
+   "fork": true,
+   "stars": 0,
+   "language": "Vue",
+   "topics": []
+  },
+  {
+   "name": "short",
+   "url": "https://github.com/TheMallyGuy/short",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "test",
+   "url": "https://github.com/TheMallyGuy/test",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "rdd",
+   "url": "https://github.com/TheMallyGuy/rdd",
+   "text": "Locally download Windows/Mac Roblox deployments directly from your browser",
+   "fork": true,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "prrweb",
+   "url": "https://github.com/TheMallyGuy/prrweb",
+   "text": "aurweb but for noobs",
+   "fork": false,
+   "stars": 0,
+   "language": "Svelte",
+   "topics": [
+    "arch-linux",
+    "archlinux",
+    "svelte",
+    "sveltekit",
+    "tailwindcss",
+    "vite",
+    "aurweb"
+   ]
+  },
+  {
+   "name": "TheMallyGuy",
+   "url": "https://github.com/TheMallyGuy/TheMallyGuy",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  }
+ ]
+}
