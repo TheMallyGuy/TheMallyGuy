@@ -1,5 +1,5 @@
 {
- "key": "7a0515f8",
+ "key": "fb7a8419",
  "stars": 5,
  "contributions": 746,
  "repos": 28,
@@ -35,43 +35,6 @@
   ]
  ],
  "days": [
-  [
-   {
-    "c": 2,
-    "day": 11,
-    "today": false
-   },
-   {
-    "c": 9,
-    "day": 12,
-    "today": false
-   },
-   {
-    "c": 29,
-    "day": 13,
-    "today": false
-   },
-   {
-    "c": 18,
-    "day": 14,
-    "today": false
-   },
-   {
-    "c": 8,
-    "day": 15,
-    "today": false
-   },
-   {
-    "c": 9,
-    "day": 16,
-    "today": false
-   },
-   {
-    "c": 15,
-    "day": 17,
-    "today": false
-   }
-  ],
   [
    {
     "c": 4,
@@ -143,8 +106,21 @@
    {
     "c": 2,
     "day": 31,
-    "today": true
+    "today": false
    }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 1,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
   ]
  ],
  "streak": {
@@ -178,7 +154,7 @@
    "url": "https://github.com/User0332/rewards-farmer",
    "text": "Automation for MS Rewards based on https://youtu.be/4qdPcMNaioA",
    "fork": false,
-   "stars": 1075,
+   "stars": 1076,
    "language": "Python",
    "topics": []
   }
