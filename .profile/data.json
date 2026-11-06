@@ -1,7 +1,7 @@
 {
- "key": "916591d0",
+ "key": "9f74acde",
  "stars": 5,
- "contributions": 758,
+ "contributions": 759,
  "repos": 29,
  "followers": 3,
  "languages": [
@@ -11,11 +11,15 @@
   ],
   [
    "TypeScript",
-   3218247
+   3234052
   ],
   [
    "HTML",
    2459614
+  ],
+  [
+   "C",
+   2023599
   ],
   [
    "Svelte",
@@ -28,10 +32,6 @@
   [
    "Rust",
    128163
-  ],
-  [
-   "Kotlin",
-   27004
   ]
  ],
  "days": [
@@ -136,7 +136,7 @@
     "today": false
    },
    {
-    "c": 1,
+    "c": 2,
     "day": 6,
     "today": true
    },
@@ -248,7 +248,7 @@
    "text": "install mods for roblox on ios",
    "fork": false,
    "stars": 0,
-   "language": "TypeScript",
+   "language": "C",
    "topics": []
   },
   {
