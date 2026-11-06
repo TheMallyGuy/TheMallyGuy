@@ -1,5 +1,5 @@
 {
- "key": "4030890d",
+ "key": "baca9e4d",
  "stars": 5,
  "contributions": 757,
  "repos": 29,
@@ -133,9 +133,13 @@
    {
     "c": 3,
     "day": 5,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 6,
     "today": true
    },
-   null,
    null
   ]
  ],
@@ -170,7 +174,7 @@
    "url": "https://github.com/User0332/rewards-farmer",
    "text": "Automation for MS Rewards based on https://youtu.be/4qdPcMNaioA",
    "fork": false,
-   "stars": 1084,
+   "stars": 1083,
    "language": "Python",
    "topics": []
   }
