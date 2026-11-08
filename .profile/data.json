@@ -1,7 +1,7 @@
 {
- "key": "139bc6e3",
+ "key": "d8fde2fe",
  "stars": 5,
- "contributions": 776,
+ "contributions": 784,
  "repos": 30,
  "followers": 3,
  "languages": [
@@ -35,43 +35,6 @@
   ]
  ],
  "days": [
-  [
-   {
-    "c": 4,
-    "day": 18,
-    "today": false
-   },
-   {
-    "c": 12,
-    "day": 19,
-    "today": false
-   },
-   {
-    "c": 2,
-    "day": 20,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 21,
-    "today": false
-   },
-   {
-    "c": 10,
-    "day": 22,
-    "today": false
-   },
-   {
-    "c": 1,
-    "day": 23,
-    "today": false
-   },
-   {
-    "c": 4,
-    "day": 24,
-    "today": false
-   }
-  ],
   [
    {
     "c": 0,
@@ -143,12 +106,25 @@
    {
     "c": 17,
     "day": 7,
-    "today": true
+    "today": false
    }
+  ],
+  [
+   {
+    "c": 8,
+    "day": 8,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
   ]
  ],
  "streak": {
-  "current": 6,
+  "current": 7,
   "longest": 26
  },
  "pins": [
@@ -247,8 +223,8 @@
    ]
   },
   {
-   "name": "living-in-the-bushes",
-   "url": "https://github.com/TheMallyGuy/living-in-the-bushes",
+   "name": "brsh",
+   "url": "https://github.com/TheMallyGuy/brsh",
    "text": "",
    "fork": false,
    "stars": 0,
