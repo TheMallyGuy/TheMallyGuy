@@ -1,8 +1,8 @@
 {
- "key": "4c0b3738",
+ "key": "cf493648",
  "stars": 5,
- "contributions": 792,
- "repos": 30,
+ "contributions": 796,
+ "repos": 31,
  "followers": 3,
  "languages": [
   [
@@ -111,7 +111,7 @@
   ],
   [
    {
-    "c": 16,
+    "c": 20,
     "day": 8,
     "today": true
    },
@@ -142,7 +142,7 @@
    "url": "https://github.com/tauri-apps/tauri-docs",
    "text": "The source for all Tauri project documentation.",
    "fork": false,
-   "stars": 1148,
+   "stars": 1146,
    "language": "MDX",
    "topics": [
     "documentation",
@@ -154,7 +154,7 @@
    "url": "https://github.com/User0332/rewards-farmer",
    "text": "Automation for MS Rewards based on https://youtu.be/4qdPcMNaioA",
    "fork": false,
-   "stars": 1085,
+   "stars": 1087,
    "language": "Python",
    "topics": []
   }
@@ -221,6 +221,15 @@
     "sveltekit",
     "tauri"
    ]
+  },
+  {
+   "name": "create-templates",
+   "url": "https://github.com/TheMallyGuy/create-templates",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
   },
   {
    "name": "brsh",
