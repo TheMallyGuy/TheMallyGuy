@@ -1,5 +1,5 @@
 {
- "key": "cf493648",
+ "key": "41c2a525",
  "stars": 5,
  "contributions": 796,
  "repos": 31,
@@ -142,7 +142,7 @@
    "url": "https://github.com/tauri-apps/tauri-docs",
    "text": "The source for all Tauri project documentation.",
    "fork": false,
-   "stars": 1146,
+   "stars": 1147,
    "language": "MDX",
    "topics": [
     "documentation",
@@ -154,7 +154,7 @@
    "url": "https://github.com/User0332/rewards-farmer",
    "text": "Automation for MS Rewards based on https://youtu.be/4qdPcMNaioA",
    "fork": false,
-   "stars": 1087,
+   "stars": 1089,
    "language": "Python",
    "topics": []
   }
