@@ -1,17 +1,17 @@
 {
- "key": "6d6bc075",
+ "key": "31ee5b39",
  "stars": 7,
- "contributions": 798,
- "repos": 31,
+ "contributions": 803,
+ "repos": 32,
  "followers": 3,
  "languages": [
   [
    "JavaScript",
-   4318855
+   4320028
   ],
   [
    "TypeScript",
-   3234241
+   3237116
   ],
   [
    "HTML",
@@ -131,7 +131,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 5,
     "day": 12,
     "today": true
    },
@@ -140,7 +140,7 @@
   ]
  ],
  "streak": {
-  "current": 0,
+  "current": 1,
   "longest": 26
  },
  "pins": [
@@ -255,6 +255,15 @@
     "sveltekit",
     "tauri"
    ]
+  },
+  {
+   "name": "shelter-plugins",
+   "url": "https://github.com/TheMallyGuy/shelter-plugins",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
   },
   {
    "name": "create-templates",
