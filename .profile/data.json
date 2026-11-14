@@ -1,7 +1,7 @@
 {
- "key": "47ad158e",
+ "key": "3b0c0e33",
  "stars": 7,
- "contributions": 826,
+ "contributions": 836,
  "repos": 32,
  "followers": 3,
  "languages": [
@@ -11,7 +11,7 @@
   ],
   [
    "TypeScript",
-   3256177
+   3259823
   ],
   [
    "HTML",
@@ -138,19 +138,23 @@
    {
     "c": 14,
     "day": 13,
-    "today": true
+    "today": false
    },
-   null
+   {
+    "c": 10,
+    "day": 14,
+    "today": true
+   }
   ]
  ],
  "streak": {
-  "current": 2,
+  "current": 3,
   "longest": 26
  },
  "pins": [
   {
-   "name": "TheMallyGuy",
-   "url": "https://github.com/TheMallyGuy/TheMallyGuy",
+   "name": "Maallly",
+   "url": "https://github.com/Maallly/Maallly",
    "text": "",
    "fork": false,
    "stars": 0,
@@ -174,7 +178,7 @@
    "url": "https://github.com/User0332/rewards-farmer",
    "text": "Automation for MS Rewards based on https://youtu.be/4qdPcMNaioA",
    "fork": false,
-   "stars": 1098,
+   "stars": 1099,
    "language": "Python",
    "topics": []
   }
@@ -182,7 +186,7 @@
  "all": [
   {
    "name": "brsh",
-   "url": "https://github.com/TheMallyGuy/brsh",
+   "url": "https://github.com/Maallly/brsh",
    "text": "",
    "fork": false,
    "stars": 1,
@@ -191,7 +195,7 @@
   },
   {
    "name": "ipa-patcher",
-   "url": "https://github.com/TheMallyGuy/ipa-patcher",
+   "url": "https://github.com/Maallly/ipa-patcher",
    "text": "install mods for roblox on ios",
    "fork": false,
    "stars": 1,
@@ -200,7 +204,7 @@
   },
   {
    "name": "glimmer",
-   "url": "https://github.com/TheMallyGuy/glimmer",
+   "url": "https://github.com/Maallly/glimmer",
    "text": "",
    "fork": false,
    "stars": 1,
@@ -209,7 +213,7 @@
   },
   {
    "name": "remiellestrap",
-   "url": "https://github.com/TheMallyGuy/remiellestrap",
+   "url": "https://github.com/Maallly/remiellestrap",
    "text": "shitpost project dont look",
    "fork": false,
    "stars": 1,
@@ -218,7 +222,7 @@
   },
   {
    "name": "Cerium",
-   "url": "https://github.com/TheMallyGuy/Cerium",
+   "url": "https://github.com/Maallly/Cerium",
    "text": "level up your experience with the roblox app!",
    "fork": false,
    "stars": 1,
@@ -231,7 +235,7 @@
   },
   {
    "name": "RotectorLuaClient",
-   "url": "https://github.com/TheMallyGuy/RotectorLuaClient",
+   "url": "https://github.com/Maallly/RotectorLuaClient",
    "text": "",
    "fork": false,
    "stars": 1,
@@ -247,7 +251,7 @@
   },
   {
    "name": "molru-extractor",
-   "url": "https://github.com/TheMallyGuy/molru-extractor",
+   "url": "https://github.com/Maallly/molru-extractor",
    "text": "a extractor for .morlru/.bundle",
    "fork": false,
    "stars": 1,
@@ -262,7 +266,7 @@
   },
   {
    "name": "shelter-plugins",
-   "url": "https://github.com/TheMallyGuy/shelter-plugins",
+   "url": "https://github.com/Maallly/shelter-plugins",
    "text": "",
    "fork": false,
    "stars": 0,
@@ -277,7 +281,7 @@
   },
   {
    "name": "create-templates",
-   "url": "https://github.com/TheMallyGuy/create-templates",
+   "url": "https://github.com/Maallly/create-templates",
    "text": "",
    "fork": true,
    "stars": 0,
@@ -286,7 +290,7 @@
   },
   {
    "name": "sources",
-   "url": "https://github.com/TheMallyGuy/sources",
+   "url": "https://github.com/Maallly/sources",
    "text": "my ipa source for livecontainer/altstore",
    "fork": false,
    "stars": 0,
@@ -295,7 +299,7 @@
   },
   {
    "name": "voidstrap-mods-library",
-   "url": "https://github.com/TheMallyGuy/voidstrap-mods-library",
+   "url": "https://github.com/Maallly/voidstrap-mods-library",
    "text": "Community Voidstrap mods, checked, owner locked and reviewed",
    "fork": true,
    "stars": 0,
@@ -304,7 +308,7 @@
   },
   {
    "name": "anisette-v3-server",
-   "url": "https://github.com/TheMallyGuy/anisette-v3-server",
+   "url": "https://github.com/Maallly/anisette-v3-server",
    "text": "sidestore's anisette-v3 compatible server",
    "fork": true,
    "stars": 0,
@@ -313,7 +317,7 @@
   },
   {
    "name": "tauri-docs",
-   "url": "https://github.com/TheMallyGuy/tauri-docs",
+   "url": "https://github.com/Maallly/tauri-docs",
    "text": "The source for all Tauri project documentation.",
    "fork": true,
    "stars": 0,
@@ -322,7 +326,7 @@
   },
   {
    "name": "Equicord",
-   "url": "https://github.com/TheMallyGuy/Equicord",
+   "url": "https://github.com/Maallly/Equicord",
    "text": "The other cutest Discord client mod",
    "fork": true,
    "stars": 0,
@@ -331,7 +335,7 @@
   },
   {
    "name": "something-repo",
-   "url": "https://github.com/TheMallyGuy/something-repo",
+   "url": "https://github.com/Maallly/something-repo",
    "text": "mirrors",
    "fork": false,
    "stars": 0,
@@ -340,7 +344,7 @@
   },
   {
    "name": "tauri-scratch-ext",
-   "url": "https://github.com/TheMallyGuy/tauri-scratch-ext",
+   "url": "https://github.com/Maallly/tauri-scratch-ext",
    "text": "bring your lifeless scratch game into a breaking scratch game or something",
    "fork": false,
    "stars": 0,
@@ -349,7 +353,7 @@
   },
   {
    "name": "pm-packager",
-   "url": "https://github.com/TheMallyGuy/pm-packager",
+   "url": "https://github.com/Maallly/pm-packager",
    "text": "pm packager but bundled using rolldownjs",
    "fork": false,
    "stars": 0,
@@ -358,7 +362,7 @@
   },
   {
    "name": "penguinsomethingmod",
-   "url": "https://github.com/TheMallyGuy/penguinsomethingmod",
+   "url": "https://github.com/Maallly/penguinsomethingmod",
    "text": "pm mod gui but build via bunjs",
    "fork": false,
    "stars": 0,
@@ -367,7 +371,7 @@
   },
   {
    "name": "penguin-desktop",
-   "url": "https://github.com/TheMallyGuy/penguin-desktop",
+   "url": "https://github.com/Maallly/penguin-desktop",
    "text": "powered by penguins",
    "fork": false,
    "stars": 0,
@@ -376,7 +380,7 @@
   },
   {
    "name": "rewards-farmer",
-   "url": "https://github.com/TheMallyGuy/rewards-farmer",
+   "url": "https://github.com/Maallly/rewards-farmer",
    "text": "Automation for MS Rewards based on https://youtu.be/4qdPcMNaioA",
    "fork": true,
    "stars": 0,
@@ -385,7 +389,7 @@
   },
   {
    "name": "shrimp-detector",
-   "url": "https://github.com/TheMallyGuy/shrimp-detector",
+   "url": "https://github.com/Maallly/shrimp-detector",
    "text": "",
    "fork": true,
    "stars": 0,
@@ -394,7 +398,7 @@
   },
   {
    "name": "Swifttunnel-sdk",
-   "url": "https://github.com/TheMallyGuy/Swifttunnel-sdk",
+   "url": "https://github.com/Maallly/Swifttunnel-sdk",
    "text": "SwiftTunnel VPN SDK - V3 relay with split tunneling, built-in auth, and C/C#/Python bindings",
    "fork": true,
    "stars": 0,
@@ -403,7 +407,7 @@
   },
   {
    "name": "umbrel",
-   "url": "https://github.com/TheMallyGuy/umbrel",
+   "url": "https://github.com/Maallly/umbrel",
    "text": "An elegant home server OS. Run OpenClaw, store your files and photos, run a Bitcoin node, and do more with over 300 apps in the Umbrel App Store.",
    "fork": true,
    "stars": 0,
@@ -412,7 +416,7 @@
   },
   {
    "name": "blossom",
-   "url": "https://github.com/TheMallyGuy/blossom",
+   "url": "https://github.com/Maallly/blossom",
    "text": "",
    "fork": false,
    "stars": 0,
@@ -421,7 +425,7 @@
   },
   {
    "name": "tauri-android-utils-api",
-   "url": "https://github.com/TheMallyGuy/tauri-android-utils-api",
+   "url": "https://github.com/Maallly/tauri-android-utils-api",
    "text": "",
    "fork": false,
    "stars": 0,
@@ -430,7 +434,7 @@
   },
   {
    "name": "sb3-tauri",
-   "url": "https://github.com/TheMallyGuy/sb3-tauri",
+   "url": "https://github.com/Maallly/sb3-tauri",
    "text": "turn any scratch (the programming language) into a tiny app",
    "fork": false,
    "stars": 0,
@@ -439,7 +443,7 @@
   },
   {
    "name": "blue-springs-in-kangaroo",
-   "url": "https://github.com/TheMallyGuy/blue-springs-in-kangaroo",
+   "url": "https://github.com/Maallly/blue-springs-in-kangaroo",
    "text": "",
    "fork": false,
    "stars": 0,
@@ -448,7 +452,7 @@
   },
   {
    "name": "Sink",
-   "url": "https://github.com/TheMallyGuy/Sink",
+   "url": "https://github.com/Maallly/Sink",
    "text": "⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.",
    "fork": true,
    "stars": 0,
@@ -457,7 +461,7 @@
   },
   {
    "name": "short",
-   "url": "https://github.com/TheMallyGuy/short",
+   "url": "https://github.com/Maallly/short",
    "text": "",
    "fork": false,
    "stars": 0,
@@ -466,7 +470,7 @@
   },
   {
    "name": "rdd",
-   "url": "https://github.com/TheMallyGuy/rdd",
+   "url": "https://github.com/Maallly/rdd",
    "text": "Locally download Windows/Mac Roblox deployments directly from your browser",
    "fork": true,
    "stars": 0,
@@ -475,7 +479,7 @@
   },
   {
    "name": "prrweb",
-   "url": "https://github.com/TheMallyGuy/prrweb",
+   "url": "https://github.com/Maallly/prrweb",
    "text": "aurweb but for noobs",
    "fork": false,
    "stars": 0,
@@ -491,8 +495,8 @@
    ]
   },
   {
-   "name": "TheMallyGuy",
-   "url": "https://github.com/TheMallyGuy/TheMallyGuy",
+   "name": "Maallly",
+   "url": "https://github.com/Maallly/Maallly",
    "text": "",
    "fork": false,
    "stars": 0,
